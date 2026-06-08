@@ -122,3 +122,8 @@ CSV 文件格式如下（不包含表头）：
 ## 许可证
 
 MIT License
+
+## 项目运行截图
+
+![项目运行截图](flutter_run_1.png)
+![项目运行截图](flutter_run_2.png)
