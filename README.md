@@ -125,5 +125,6 @@ MIT License
 
 ## 项目运行截图
 
-![项目运行截图](flutter_run_1.png)
-![项目运行截图](flutter_run_2.png)
+![项目运行截图](flutter_run_1.jpg)
+
+![项目运行截图](flutter_run_2.jpg)
